@@ -3,7 +3,7 @@
   "context": "..",
   "dockerFile": "../Dockerfile",
   "remoteUser": "developer",
-  "runArgs": ["--privileged"],
+  "privileged": true,
   "customizations": {
     "vscode": {
       "settings": {
