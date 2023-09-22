@@ -26,7 +26,7 @@ A container to setup the dev environment for flutter application
     >- adb connect phone_ip_address:5555
     >- adb devices
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 **NB** 
   - You can delete the gitignore inside the workspace directory, it is just to avoid to push project data on container repository after editing container.
